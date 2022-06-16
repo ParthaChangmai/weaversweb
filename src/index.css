@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li {
+	@apply border-2 border-black p-5 px-16 my-3 rounded-lg cursor-pointer bg-white;
+}
